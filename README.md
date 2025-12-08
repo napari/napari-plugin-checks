@@ -17,7 +17,7 @@ See [pre-commit](https://pre-commit.com/) for instructions on using pre-commit.
 Sample `.pre-commit-config.yaml`:
 
 ```yaml
--   repo: https://github.com/tlambert03/napari-plugin-checks
+-   repo: https://github.com/napari/napari-plugin-checks
     rev: v0.3.0
     hooks:
     -   id: napari-plugin-checks
